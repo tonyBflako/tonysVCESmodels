@@ -1,2 +1,2 @@
-# vynixus custom entity maker
-i put all my models here to make customs entites
+# my models for vynixus custom entity maker
+holder for all my models for the vynixus custom entity spawner
